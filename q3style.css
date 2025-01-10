@@ -1,0 +1,21 @@
+.area{
+    display: flex;
+    justify-content: center;
+  }
+  .box{
+    color:white;
+  }
+  .one{
+    width:200px;
+    height:200px;
+    background-color:gray;
+    position:relative;
+  }
+  .two{
+    width:100px;
+    height:100px;
+    background-color:black;
+    position:relative;
+    left:50px;
+    top:30px;
+  }

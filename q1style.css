@@ -1,0 +1,16 @@
+.area{
+    display: flex;
+    justify-content:flex-end;
+}
+.box{
+    width:100px;
+    height:100px;
+    background-color:black;
+    color:white;
+}
+.one{
+    margin-right:auto;
+}
+.two{
+    margin-right:5px;
+}

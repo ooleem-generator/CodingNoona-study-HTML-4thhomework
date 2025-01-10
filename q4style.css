@@ -1,0 +1,20 @@
+.area{
+    display: flex;
+  }
+  .box{
+    color:white;
+  }
+  .one{
+    width:100px;
+    height:100px;
+    background-color:black;
+    position:relative;
+  }
+  .two{
+    width:100px;
+    height:100px;
+    background-color:gray;
+    position:relative;
+    right:50px;
+    top:50px;
+  }

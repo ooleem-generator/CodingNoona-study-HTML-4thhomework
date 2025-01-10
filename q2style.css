@@ -1,0 +1,16 @@
+.area{
+    display: flex;
+    flex-direction: column;
+  }
+  .box{
+    width:100px;
+    height:100px;
+    background-color:black;
+    color:white;
+  }
+  .two{
+    align-self:center;
+  }
+  .three{
+    align-self:flex-end;
+  }
